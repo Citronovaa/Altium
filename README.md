@@ -4,7 +4,7 @@
 
 ### Here are a few things I plan on working on:
 
-[ ] Python Skills
-[ ] Automation Skills
-[ ] Markdown Skills
-[ ] Router Configurations
+- [ ] Python Skills
+- [ ] Automation Skills
+- [ ] Markdown Skills
+- [ ] Router Configurations
