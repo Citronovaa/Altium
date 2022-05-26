@@ -2,8 +2,8 @@ from unittest.util import three_way_cmp
 
 
 dictionary = {
-    "con1": ("Ninna Nielsen", "27", "married"),
-    "con2": ("Timmie", "28", "married"),
+    "con1": ("Shondrell", "47", "married"),
+    "con2": ("Theodore", "22", "married"),
     "con3": ("Taquiqui", "ageless", "married")
 }
 
